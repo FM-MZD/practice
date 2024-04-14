@@ -1,1 +1,2 @@
 this is myNote file.
+this is the third temporary change to test the deletion of commited changes.
